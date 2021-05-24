@@ -18,5 +18,6 @@ The purpose of this project is to analyze Amazon reviews on pet products to dete
 From this analysis, there is no evidence of positivity bias for reviews in the Vine program since a significantly larger percentage of non-Vine reviews had 5 stars. Another analysis we could perform would be to show an overall breakdown of rating scores for Vine and non-Vine reviews to see if ratings are generally skewed more positively as shown below: 
    - ![](Resources/paid_breakdown.png)
    - ![](Resources/unpaid_breakdown.png)
+   - In this analysis, we can see that the non-Vine reviews have more of an even distribution of ratings from 1-4 whereas the Vine reviews have mostly 4 and 5 star ratings. 
 
 
